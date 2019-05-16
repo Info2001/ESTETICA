@@ -116,12 +116,12 @@ cursor: pointer;
 }
 
 .footer {
-    background-image: url('../img/footer.png');
+    background-image: url('../imge/footer.png');
     color: #ffffff;
 }
 
 .footer-2 {
-    background-image: url('../img/footer2.png');
+    background-image: url('../imge/footer2.png');
     color: #c1c1c1;
     height: 90px;
 }
@@ -145,7 +145,7 @@ cursor: pointer;
     width:  15px;
     height: 15px;
     display: inline-block;
-    background-image: url('../img/clock.png');
+    background-image: url('../imge/clock.png');
     float: left;
     background-repeat: no-repeat;
     padding-left: 5px;
@@ -161,11 +161,11 @@ cursor: pointer;
     padding-left: 5px;
 }
 .local:before {
-    background-image: url('../img/local.png');
+    background-image: url('../imge/local.png');
 }  
 .emailico:before {
-    background-image: url('../img/emailico.png');
+    background-image: url('../imge/emailico.png');
 }  
 .telefoneico:before {
-    background-image: url('../img/telefoneico.png');
+    background-image: url('../imge/telefoneico.png');
 } 
